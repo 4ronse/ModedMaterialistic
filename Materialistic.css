@@ -506,8 +506,8 @@ textarea,
 }
 
 .avatar-3uk_u9 .wrapper-3t9DeA {
-	width: 20px !important;
-	height: 20px !important;
+	width: var(--rs-avatar-width) !important;
+	height: var(--rs-avatar-height) !important;
 }
 
 .avatar-3uk_u9 {
