@@ -48,4 +48,11 @@
 	--rs-offline-color: #636b75;
 	--rs-streaming-color: #643da7;
 	--rs-invisible-color: #747f8d;
+
+	/* MY EDIT START */
+
+	--rs-avatar-width: 2.5rem;
+	--rs-avatar-height: 2.5rem;
+
+	/* MY EDIT END */
 }
